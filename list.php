@@ -4,12 +4,12 @@ Code by :- #Victor - #Tshake
 Ch :- @TshAkETeam #1
 */
 ob_start();
-$API_KEY = 'token'; #توكن البوت
-$sudo = array(1,2,3); #ايدي المطورين
+$API_KEY = '6916403745:AAGRb-eHcldxCcv6YH2RpradWeBa02aCjP4'; #توكن البوت
+$sudo = array(1396443240,2,3); #ايدي المطورين
 $bot_id = 123; #ايدي البوت
-$botuser = '@BOT'; #معرف البوت
-$chname = "- TshAke TeaM ⚜️ -";
-$churl ="https://t.me/tshaketeam";
+$botuser = '@UserTeleeBot'; #معرف البوت
+$chname = "- paivak ⚜️ -";
+$churl ="https://t.me/paivak";
 $photo = "https://a.top4top.net/p_671h2vl11.jpg";
 //////////////////////
 $awmr = array("/done","/start","/mark","/list");
